@@ -30,7 +30,7 @@ const WorkExperience = () => {
 
   const experiences = [
     {
-      title: "Senior Mechanical",
+      title: "Senior Mechanical Engineer",
       company: "Advanced Manufacturing Solutions Pvt. Ltd.",
       location: "Mumbai, India",
       duration: "2021 - Present",
