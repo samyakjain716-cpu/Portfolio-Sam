@@ -23,6 +23,7 @@ const Hero = () => {
             </div>
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-4 tracking-tight">
               <span className="inline-block animate-slide-in-left">Samyak</span>{' '}
+              <span className="inline-block animate-slide-in-left">Mangesh</span>{' '}
               <span className="inline-block animate-slide-in-right text-blue-700">Jain</span>
             </h1>
             <div className="relative inline-block">
