@@ -47,12 +47,12 @@ const Hero = () => {
             <div className="hidden sm:block w-1 h-1 bg-gray-400 rounded-full"></div>
             <div className="flex items-center text-gray-600 hover:text-blue-700 transition-colors duration-300 group">
               <Mail size={16} className="mr-2 group-hover:scale-110 transition-transform duration-300" />
-              <span>samyak.engineer@email.com</span>
+              <span>samyakjain716@gmail.com</span>
             </div>
             <div className="hidden sm:block w-1 h-1 bg-gray-400 rounded-full"></div>
             <div className="flex items-center text-gray-600 hover:text-blue-700 transition-colors duration-300 group">
               <Phone size={16} className="mr-2 group-hover:scale-110 transition-transform duration-300" />
-              <span>+91 XXXXX XXXXX</span>
+              <span>+91 89836 25268</span>
             </div>
           </div>
 
