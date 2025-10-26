@@ -22,7 +22,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-medium text-gray-900">Email</h3>
-                <p className="text-gray-600">hello@example.com</p>
+                <p className="text-gray-600">samyakjain716@gmail.com</p>
               </div>
             </div>
 
@@ -32,7 +32,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-medium text-gray-900">Phone</h3>
-                <p className="text-gray-600">+1 (555) 123-4567</p>
+                <p className="text-gray-600">+91 89836 25268</p>
               </div>
             </div>
 
@@ -42,7 +42,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-medium text-gray-900">Location</h3>
-                <p className="text-gray-600">San Francisco, CA</p>
+                <p className="text-gray-600">Pune, Maharashtra, India</p>
               </div>
             </div>
           </div>
